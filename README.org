@@ -1,0 +1,9 @@
+* atdoc
+
+HTML documentation generation
+
+|---------+---------------------------------------------|
+| source  | git:http://www.lichteblau.com/git/atdoc.git |
+| commit  | acc0484                                     |
+| systems | atdoc                                       |
+|---------+---------------------------------------------|
